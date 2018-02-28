@@ -67,6 +67,7 @@ dtb-$(CONFIG_ARCH_EXYNOS) += exynos4210-origen.dtb \
 	exynos4210-universal_c210.dtb \
 	exynos4412-odroidx.dtb \
 	exynos4412-origen.dtb \
+	exynos4412-fs4412.dtb \
 	exynos4412-smdk4412.dtb \
 	exynos4412-tiny4412.dtb \
 	exynos4412-trats2.dtb \
